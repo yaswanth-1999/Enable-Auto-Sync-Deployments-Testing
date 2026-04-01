@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<your-username>/<repo>.git
+    repoURL: https://github.com/yaswanth-1999/Enable-Auto-Sync-Deployments-Testing.git
     targetRevision: HEAD
     path: argocd-autosync
 
